@@ -1,0 +1,15 @@
+google apis github  - https://github.com/googleapis/google-api-python-client
+
+https://github.com/googleapis/google-api-python-client/blob/main/docs/start.md
+https://googleapis.github.io/google-api-python-client/docs/epy/googleapiclient.discovery-module.html#build
+https://googleapis.github.io/google-api-python-client/docs/dyn/youtube_v3.html
+https://googleapis.github.io/google-api-python-client/docs/dyn/youtube_v3.channels.html
+
+youtube official api reference:
+https://developers.google.com/youtube/v3
+//or just google youtube api
+
+
+
+youtube part parameter thing:
+https://developers.google.com/youtube/v3/docs/channels/list
